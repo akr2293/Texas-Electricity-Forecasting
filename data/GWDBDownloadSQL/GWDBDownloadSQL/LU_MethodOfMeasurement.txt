@@ -1,0 +1,13 @@
+MethodOfMeasurementId|MethodOfMeasurementCode|Description|CreatedDate|LastUpdateDate
+1|0|Sonic/Laser Device||
+2|1|Steel Tape||
+3|2|Electric Line||
+4|3|Air Line||
+5|4|Recorder (Float or Transducer)||
+6|5|Pressure Gage||
+7|6|Logging Sonde||
+8|7|Unknown||
+9|8|Other||
+10|9|Transducer||
+11|FW|Float & Weight||
+12|10|Continuous Acoustic Technology||

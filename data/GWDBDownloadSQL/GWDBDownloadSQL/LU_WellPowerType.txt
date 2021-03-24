@@ -1,0 +1,10 @@
+WellPowerTypeId|WellPowerTypeCode|Description|CreatedDate|LastUpdateDate
+1|D|Diesel Engine||
+2|E|Electric Motor||
+3|G|Gasoline Engine||
+4|H|Hand||
+5|L|LP Gas Engine||
+6|N|Natural-Gas Engine||
+7|S|Solar||
+8|W|Windmill||
+9|Z|Other (see remarks)||

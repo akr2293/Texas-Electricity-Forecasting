@@ -1,0 +1,22 @@
+CasingMaterialId|Description|CreatedDate|LastUpdateDate
+1|Other||
+2|Unknown||
+10|Steel||
+11|Plastic (PVC)||
+12|Stainless Steel||
+13|Fiberglass||
+14|Rod Base Stainless Steel||
+15|Pipe Base Stainless Steel||
+16|Galvanized Steel||
+101|Brick||
+102|Brass or Bronze||
+103|Galvanized Iron||
+104|Concrete||
+105|Copper||
+106|Wrought Iron||
+107|Other Metal||
+108|Rock or Stone||
+109|Tile||
+110|Coated Steel||
+111|Wood||
+112|Explained in Comments||

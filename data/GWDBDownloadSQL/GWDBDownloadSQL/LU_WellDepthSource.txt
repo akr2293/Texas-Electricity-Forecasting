@@ -1,0 +1,11 @@
+WellDepthSourceId|WellDepthSourceCode|Description|CreatedDate|LastUpdateDate
+1|A|Another Government Agency||
+2|D|Driller's Log||
+3|G|Geologist-Consultant||
+4|L|Geophysical Log||
+5|M|Memory of Owner||
+6|O|Owner||
+7|R|Person Other than Owner||
+8|S|Measured||
+9|U|Unknown||
+10|Z|Other (see remarks)||

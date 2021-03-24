@@ -1,0 +1,77 @@
+MajorMinorAquiferId|MajorMinorAquiferCode|Classification|Description|CreatedDate|LastUpdateDate
+1|1|Major|Hueco-Mesilla Bolson||
+2|2|Minor|West Texas Bolson||
+3|3|Major|Pecos Valley||
+4|4|Major|Seymour||
+5|5|Minor|Brazos River Alluvium||
+6|6|Minor|Blaine||
+7|7|Minor|Blossom||
+8|8|Minor|Bone Spring-Victorio Peak||
+9|9|Minor|Capitan Reef Complex||
+10|10|Major|Carrizo-Wilcox||
+11|11|Major|Edwards (Balcones Fault Zone)||
+12|12|Minor|Edwards-Trinity (High Plains)||
+13|13|Major|Edwards-Trinity Plateau||
+14|14|Minor|Ellenburger-San Saba||
+15|15|Major|Gulf Coast||
+16|16|Minor|Hickory||
+17|17|Minor|Igneous||
+18|18|Minor|Marathon||
+19|19|Minor|Marble Falls||
+20|20|Minor|Nacatoch||
+21|21|Major|Ogallala||
+22|22|Other|Other||
+23|23|Minor|Rita Blanca||
+24|24|Minor|Queen City||
+25|25|Minor|Rustler||
+26|26|Minor|Dockum||
+27|27|Minor|Sparta||
+28|28|Major|Trinity||
+29|29|Minor|Woodbine||
+30|30|Minor|Lipan||
+31|31|Minor|Yegua-Jackson||
+32|32|Combination|Blaine/Other||
+33|33|Combination|Bone Spring-Victorio Peak/Capitan Reef Complex||
+34|34|Combination|Carrizo-Wilcox/Other||
+35|35|Combination|Carrizo-Wilcox/Queen City||
+36|36|Combination|Carrizo-Wilcox/Sparta||
+37|37|Combination|Dockum/Other||
+38|38|Combination|Edwards (Balcones Fault Zone)/Edwards-Trinity Plateau||
+39|39|Combination|Edwards (Balcones Fault Zone)/Trinity||
+40|40|Combination|Edwards-Trinity (High Plains)/Dockum||
+41|41|Combination|Edwards-Trinity (High Plains)/Other||
+42|42|Combination|Edwards-Trinity Plateau/Blaine||
+43|43|Combination|Edwards-Trinity Plateau/Dockum||
+44|44|Combination|Edwards-Trinity Plateau/Other||
+45|45|Combination|Edwards-Trinity Plateau/Trinity||
+46|46|Combination|Ellenburger-San Saba/Hickory||
+47|47|Combination|Ellenburger-San Saba/Marble Falls||
+48|48|Combination|Ellenburger-San Saba/Other||
+49|49|Combination|Gulf Coast/Other||
+50|50|Combination|Gulf Coast/Yegua-Jackson||
+51|51|Combination|Hickory/Other||
+52|52|Combination|Igneous/Other||
+53|53|Combination|Marble Falls/Other||
+54|54|Combination|Ogallala/Dockum||
+55|55|Combination|Ogallala/Edwards-Trinity (High Plains)||
+56|56|Combination|Ogallala/Edwards-Trinity Plateau||
+57|57|Combination|Ogallala/Other||
+58|58|Combination|Ogallala/Rita Blanca||
+59|59|Combination|Pecos Valley/Dockum||
+60|60|Combination|Pecos Valley/Edwards-Trinity Plateau||
+61|61|Combination|Pecos Valley/Rustler/Dockum||
+62|62|Combination|Queen City/Other||
+63|63|Combination|Queen City/Sparta||
+64|64|Combination|Seymour/Blaine||
+65|65|Combination|Seymour/Other||
+66|66|Combination|Sparta/Other||
+67|67|Combination|Trinity/Ellenburger-San Saba||
+68|68|Combination|Trinity/Other||
+69|69|Combination|Trinity/Woodbine||
+70|70|Combination|West Texas Bolson/Capitan Reef Complex||
+71|71|Combination|West Texas Bolson/Other||
+72|72|Combination|Yegua-Jackson/Other||
+73|73|Minor|Cross Timbers|2017-12-07|
+74|74|Combination|Cross Timbers/Other|2019-03-14|2019-03-14
+75|75|Combination|Edwards-Trinity Plateau/Cross Timbers|2019-03-14|2019-03-14
+76|76|Combination|Trinity/Cross Timbers|2019-03-14|2019-03-14

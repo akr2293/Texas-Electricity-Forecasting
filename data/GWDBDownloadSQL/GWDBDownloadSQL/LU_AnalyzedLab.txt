@@ -1,0 +1,35 @@
+AnalyzedLabId|AnalyzedLabCode|Description|CreatedDate|LastUpdateDate
+1|01|Texas Department of Health||
+2|02|U.S. Geological Survey Lab||
+3|03|TWDB Field Analysis||
+4|04|Curtis Lab||
+5|05|Edna Wood Lab||
+6|06|Pope Testing Lab||
+7|07|Trinity Testing Lab||
+8|08|Microbiology||
+9|09|Southwestern Analytical Chemicals||
+10|10|Houston Laboratories||
+11|11|Texas Agri. Experiment Station 6||
+12|12|WPA||
+13|13|University of Texas||
+14|14|Texas A&M University||
+15|15|Texas Tech University||
+16|16|NTSU Water Research Lab||
+17|17|El Paso Water Utilities Lab||
+18|18|Radian Corp.||
+19|19|Combo of TDH (01) and TTU (15)||
+20|20|Texas Water Commission Lab||
+21|21|Railroad Commission||
+22|22|Groundwater Conservation District (general)||
+23|23|LCRA - Lower Colorado River Authority||
+24|24|Energy Labs Inc.||
+25|25|Immunoassay at TCEQ||
+26|26|Anacon, Inc||
+27|27|Upper Guadalupe River Authority||
+28|95|Misc. University/Research Lab||
+29|96|Misc. Municipal Lab||
+30|97|Misc. Industrial Lab||
+31|98|Misc. Commerical Lab||
+32|99|Laboratory Unknown||
+33|28|Cooperator Field Analysis||
+34|29|Real-Time Recorder Analysis||

@@ -1,0 +1,11 @@
+WaterLevelObsId|WaterLevelObsCode|Description|CreatedDate|LastUpdateDate
+1|C|TWDB Current Observation Well||
+2|D|GCD Current Observation Well||
+3|H|Historical Observation Well||
+4|L|GCD Recorder Well||
+5|M|Miscellaneous Measurements||
+6|N|None||
+7|P|PWS or Other Current Observation Well||
+8|R|TWDB Recorder Well||
+9|T|Other Cooperator Recorder Well||
+10|U|USGS Current Observation Well||

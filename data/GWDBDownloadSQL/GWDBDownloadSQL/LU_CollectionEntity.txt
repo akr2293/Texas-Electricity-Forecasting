@@ -1,0 +1,29 @@
+CollectionEntityId|CollectionEntityCode|Description|CreatedDate|LastUpdateDate
+1|01|Texas Water Development Board||
+2|02|Texas Department of Health||
+3|03|U.S. Geological Survey||
+4|04|Texas Commission on Environmental Quality||
+5|05|Other State Agencies||
+6|06|Other Federal Agencies||
+7|07|Groundwater Conservation District (general)||
+8|08|Registered Water Well Driller||
+9|09|Municipal Water Agency or Public Water Supply Corp||
+10|10|Groundwater Consultant||
+11|11|Private Firm or Industry||
+12|12|Well Owner or Operator||
+13|13|Gonzales County UWCD||
+14|14|Bexar Metropolitan Water District||
+15|15|Edwards Aquifer Authority (EAA)||
+16|16|Barton Springs/Edwards Aquifer CD||
+17|17|San Antonio Water System (SAWS)||
+18|18|Springhills Water Management District||
+19|19|Headwaters GCD (Kerr)||
+20|20|Other or Identity Unknown||
+21|21|Blanco-Pedernales GCD||
+22|22|High Plains UWCD #1||
+23|23|Hemphill UWCD||
+24|24|North Plains GCD #2||
+25|25|Panhandle GCD||
+26|26|City of Amarillo||
+27|27|Sutton County UWCD||
+28|28|Hays Trinity GCD|2019-02-15|2019-02-15

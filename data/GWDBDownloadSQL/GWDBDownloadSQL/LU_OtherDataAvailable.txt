@@ -1,0 +1,28 @@
+OtherDataAvailableId|Description|CreatedDate|LastUpdateDate
+1|Aquifer Test||
+2|Power-Yield Test||
+3|Specific Capacity||
+4|Estimated Aquifer Values||
+5|Drilling Time||
+6|Casing Colar||
+7|Caliper||
+8|Drillers Log||
+9|Electric Log||
+10|Fluid-Conductivity||
+11|Geologists or Sample||
+12|Magnetic||
+13|Induction||
+14|Gamma Ray||
+15|Dipmeter Survey||
+16|Lateral Log||
+17|Microlog||
+18|Neutron||
+19|Microlateral Log||
+20|Photographic||
+21|Radioactive Tracer||
+22|Sonic||
+23|Temperature||
+24|Gamma-Gamma||
+25|Fluid Velocity||
+26|Core||
+27|Other||

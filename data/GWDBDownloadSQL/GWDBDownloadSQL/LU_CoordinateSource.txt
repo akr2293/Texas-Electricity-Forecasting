@@ -1,0 +1,7 @@
+CoordinateSourceId|CoordinateSourceCode|Description|CreatedDate|LastUpdateDate
+1|0|Global Positioning System - GPS||
+2|1|+/- 1 Second||
+3|2|+/- 5 Seconds||
+4|3|+/- 10 Seconds||
+5|4|+/- 1 Minute||
+6|5|Center of 2.5 Minute Quadrangle||

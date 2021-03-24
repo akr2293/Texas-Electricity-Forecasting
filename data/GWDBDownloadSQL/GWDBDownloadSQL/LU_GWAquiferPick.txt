@@ -1,0 +1,8 @@
+GWAquiferPickId|GWAquiferPickCode|Description|CreatedDate|LastUpdateDate
+1|1|Provided by Groundwater Conservation District||
+2|2|Provided by U.S. Geological Survey||
+3|3|Provided by Third Party||
+4|4|Interpreted from surface maps, no depth information available||
+5|5|Assigned by Professional Geoscientist using all available documentation||
+6|6|Unknown||
+7|7|Other||

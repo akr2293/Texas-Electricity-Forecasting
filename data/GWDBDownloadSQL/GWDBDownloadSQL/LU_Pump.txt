@@ -1,0 +1,13 @@
+PumpId|Description|CreatedDate|LastUpdateDate
+1|Other||
+2|Unknown||
+10|Submersible||
+11|Turbine||
+12|Piston||
+13|Jet||
+14|Cylinder||
+101|Airlift||
+102|Bucket||
+103|Centrifugal Pump||
+104|None||
+105|Rotary Pump||

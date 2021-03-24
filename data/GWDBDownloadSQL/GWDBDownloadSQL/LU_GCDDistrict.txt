@@ -1,0 +1,103 @@
+GCDDistrictCode|GCDDistrictName|GCDOfficialName
+195101OA|High Plains UWCD #1|High Plains Underground Water Conservation District No. 1
+195401AX|North Plains GCD|North Plains Groundwater Conservation District
+195501AX|Panhandle GCD|Panhandle Groundwater Conservation District
+195504EX|Hudspeth County UWCD #1|Hudspeth County Underground Water Conservation District No. 1
+195907JX|Real-Edwards C & RD|Real-Edwards Conservation and Reclamation District
+196513LX|Evergreen UWCD|Evergreen Underground Water Conservation District
+197407FX|Plateau UWC & SD|Plateau Underground Water Conservation And Supply District
+197514HX|Harris-Galveston Subsidence District|Harris-Galveston Coastal Subsidence District
+198107FX|Glasscock GCD|Glasscock Groundwater Conservation District
+198207FK|Hickory UWCD #1|Hickory Underground Water Conservation District # 1
+198502FX|Permian Basin UWCD|Permian Basin Underground Water Conservation District
+198507FX|Coke County UWCD|Coke County Underground Water Conservation District
+198507FY|Irion County WCD|Irion County Water Conservation District
+198507FZ|Sutton County UWCD|Sutton County Underground Water Conservation District
+198707FX|Lipan-Kickapoo WCD|Lipan-Kickapoo Water Conservation District
+198707FY|Sterling County UWCD|Sterling County Underground Water Conservation District
+198707KX|Hill Country UWCD|Hill Country Underground Water Conservation District
+198710KL|Barton Springs/Edwards Aquifer CD|Barton Springs/Edwards Aquifer Conservation District
+198902OX|Mesa UWCD|Mesa Underground Water Conservation District
+198902OY|Sandy Land UWCD|Sandy Land Underground Water Conservation District
+198907FX|Crockett County GCD|Crockett County Groundwater Conservation District
+198907FY|Santa Rita UWCD|Santa Rita Underground Water Conservation District
+198908GX|Clearwater UWCD|Clearwater Underground Water Conservation District
+198908GY|Saratoga UWCD|Saratoga Underground Water Conservation District
+198909JX|Bandera County RA & GWD|Bandera County River Authority and Groundwater District
+198910LX|Plum Creek CD|Plum Creek Conservation District
+198913LX|Medina County GCD|Medina County Groundwater Conservation District
+198914HX|Fort Bend Subsidence District|Fort Bend Subsidence District
+198916NX|Live Oak UWCD|Live Oak Underground Water Conservation District
+199102OX|Llano Estacado UWCD|Llano Estacado Underground Water Conservation District
+199102OY|South Plains UWCD|South Plains Underground Water Conservation District
+199107FX|Menard County UWD|Menard County Underground Water District
+199109JX|Headwaters GCD|Headwaters Groundwater Conservation District
+199304EX|Jeff Davis County UWCD|Jeff Davis County Underground Water Conservation District
+199304EY|Presidio County UWCD|Presidio County Underground Water Conservation District
+199306GB|Rolling Plains GCD|Rolling Plains Groundwater Conservation District
+199307LX|Uvalde County UWCD|Uvalde County Underground Water Conservation District
+199313LX|Gonzales County UWCD|Gonzales County Underground Water Conservation District
+199501AX|Hemphill County UWCD|Hemphill County Underground Water Conservation District
+199502OX|Garza County UWCD|Garza County Underground Water Conservation District
+199610LX|Edwards Aquifer Authority|Edwards Aquifer Authority
+199704EX|Culberson County GCD|Culberson County Groundwater Conservation District
+199710LX|Guadalupe County GCD|Guadalupe County Groundwater Conservation District
+199713LX|Wintergarden GCD|Wintergarden Groundwater Conservation District
+199716NX|Bee GCD|Bee Groundwater Conservation District
+199903FX|Middle Pecos GCD|Middle Pecos Groundwater Conservation District
+199906BX|Gateway GCD|Gateway Groundwater Conservation District
+199907FX|Lone Wolf GCD|Lone Wolf Groundwater Conservation District
+199909LK|Hays Trinity GCD|Hays Trinity Groundwater Conservation District
+199909LX|Cow Creek GCD|Cow Creek Groundwater Conservation District
+199912GK|Lost Pines GCD|Lost Pines Groundwater Conservation District
+199912GX|Brazos Valley GCD|Brazos Valley Groundwater Conservation District
+199915PX|Texana GCD|Texana Groundwater Conservation District
+199916LX|Refugio GCD|Refugio Groundwater Conservation District
+199916MX|Red Sands GCD|Red Sands Groundwater Conservation District
+199916NX|McMullen GCD|McMullen Groundwater Conservation District
+200009KX|Blanco-Pedernales GCD|Blanco-Pedernales Groundwater Conservation District
+200104EX|Brewster County GCD|Brewster County Groundwater Conservation District
+200106GX|Clear Fork GCD|Clear Fork Groundwater Conservation District
+200107FX|Kimble County GCD|Kimble County Groundwater Conservation District
+200107GX|Wes-Tex GCD|Wes-Tex Groundwater Conservation District
+200108GX|Middle Trinity GCD|Middle Trinity Groundwater Conservation District
+200108GY|Post Oak Savannah GCD|Post Oak Savannah Groundwater Conservation District
+200109LX|Trinity Glen Rose GCD|Trinity Glen Rose Groundwater Conservation District
+200110JX|Kinney County GCD|Kinney County Groundwater Conservation District
+200111HC|Mid-East Texas GCD|Mid-East Texas Groundwater Conservation District
+200111IC|Neches & Trinity Valleys GCD|Neches & Trinity Valleys Groundwater Conservation District
+200111IX|Pineywoods GCD|Pineywoods Groundwater Conservation District
+200114HG|Bluebonnet GCD|Bluebonnet Groundwater Conservation District
+200114HX|Brazoria County GCD|Brazoria County Groundwater Conservation District
+200114HY|Lone Star GCD|Lone Star Groundwater Conservation District
+200115KP|Coastal Bend GCD|Coastal Bend Groundwater Conservation District
+200115KX|Coastal Plains GCD|Coastal Plains Groundwater Conservation District
+200115KY|Fayette County GCD|Fayette County Groundwater Conservation District
+200115LX|Pecan Valley GCD|Pecan Valley Groundwater Conservation District
+200116LX|Goliad County GCD|Goliad County Groundwater Conservation District
+200311IX|Rusk County GCD|Rusk County Groundwater Conservation District
+200314IX|Southeast Texas GCD|Southeast Texas Groundwater Conservation District
+200316NX|Kenedy County GCD|Kenedy County Groundwater Conservation District
+200508KX|Central Texas GCD|Central Texas Groundwater Conservation District
+200514HI|Lower Trinity GCD|Lower Trinity Groundwater Conservation District
+200515LX|Victoria County GCD|Victoria County Groundwater Conservation District
+200516MX|Starr County GCD|Starr County Groundwater Conservation District
+200516NX|Duval County GCD|Duval County Groundwater Conservation District
+200516NY|San Patricio County GCD|San Patricio County Groundwater Conservation District
+200516NZ|Corpus Christi ASRCD|Corpus Christi Aquifer Storage and Recovery Conservation District
+200706AX|Mesquite GCD|Mesquite Groundwater Conservation District
+200708CX|Northern Trinity GCD|Northern Trinity Groundwater Conservation District
+200708CY|Upper Trinity GCD|Upper Trinity Groundwater Conservation District
+200708GX|Southern Trinity GCD|Southern Trinity Groundwater Conservation District
+200711IX|Panola County GCD|Panola County Groundwater Conservation District
+200715KX|Colorado County GCD|Colorado County Groundwater Conservation District
+200908CX|North Texas GCD|North Texas Groundwater Conservation District
+200908CY|Red River GCD|Red River Groundwater Conservation District
+200908GX|Prairielands GCD|Prairielands Groundwater Conservation District
+200916MX|Brush Country GCD|Brush Country Groundwater Conservation District
+201107EX|Terrell County GCD|Terrell County Groundwater Conservation District
+201115LX|Calhoun County GCD|Calhoun County Groundwater Conservation District
+201303FX|Reeves County GCD|Reeves County Groundwater Conservation District
+201509LX|Comal Trinity GCD|Comal Trinity Groundwater Conservation District
+201709KX|Southwestern Travis County GCD|Southwestern Travis County Groundwater Conservation District
+NODSTRCT|GCD Does Not Exist|GCD Does Not Exist

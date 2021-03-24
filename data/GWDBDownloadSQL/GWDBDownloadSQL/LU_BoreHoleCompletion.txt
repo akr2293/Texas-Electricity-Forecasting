@@ -1,0 +1,16 @@
+BoreHoleCompletionId|Description|CreatedDate|LastUpdateDate
+1|Other||
+2|Unknown||
+10|Straight Wall||
+11|Filter Packed||
+12|Screened||
+13|Perforated or Slotted||
+14|Open Hole||
+15|Under-reamed||
+16|Plugged||
+101|Porous Concrete||
+102|Horizontal Gallery||
+103|Open End||
+104|Sand||
+105|Gravel Pack w/Perforations||
+106|Gravel Pack w/Screen||

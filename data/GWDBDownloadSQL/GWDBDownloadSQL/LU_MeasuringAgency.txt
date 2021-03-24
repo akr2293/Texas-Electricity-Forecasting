@@ -1,0 +1,13 @@
+MeasuringAgencyId|MeasuringAgencyCode|Description|CreatedDate|LastUpdateDate
+1|01|Texas Water Development Board||
+2|02|Texas Commission on Environmental Quality||
+3|03|Other State Agencies||
+4|04|U.S. Geological Survey||
+5|05|Other Federal Agencies||
+6|06|Groundwater Conservation District||
+7|07|Registered Water Well Driller||
+8|08|Municipal Water Agency or PWS Corporation||
+9|09|Groundwater Consultant||
+10|10|Private Firm or Industry||
+11|11|Well Owner or Operator||
+12|12|Other or Source of Measurement Unknown||

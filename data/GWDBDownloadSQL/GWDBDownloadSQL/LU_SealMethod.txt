@@ -1,0 +1,12 @@
+SealMethodId|Description|CreatedDate|LastUpdateDate
+1|Other||
+2|Unknown||
+10|Hand Mixed||
+11|Poured||
+12|Slurry||
+13|Gravity||
+14|Tremie||
+15|Pressure||
+16|Pumped||
+17|Positive Displacement||
+18|Not Applicable||

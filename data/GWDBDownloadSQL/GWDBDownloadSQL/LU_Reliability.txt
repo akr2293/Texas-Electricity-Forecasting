@@ -1,0 +1,15 @@
+ReliabilityId|ReliabilityCode|ShortDescription|LongDescription|CreatedDate|LastUpdateDate
+1|01|Not indicative of aquifer quality.|Not indicative of aquifer quality.  Data should be used carefully.||
+2|02|From well not sufficiently pumped; not filtered or preserved|Sample collected from well not sufficiently pumped; and not filtered or preserved.  Data should still be used carefully.||
+3|03|Collected from pumped well, but not filtered or preserved|Sample collected from well sufficiently pumped but not filtered or preserved.  Holding time probably not honored.||
+4|04|From a report; unknown sample collection & preservation|Chemical analysis taken from a report.  Sample collection and preservation procedures unknown.||
+5|08|Filtered; temp., cond., & pH measured in field; Alkal.in lab|Sample filtered in the field. Temperature, conductivity, and pH measured in the field. Alkalinity measured in the lab. Nutrient sample not preserved and included in anion sub-sample. Sample kept cold until delivered to the lab.  ||
+6|09|Not filtered; temp., cond., & pH measured in field; Alkal. in lab|Sample NOT filtered in the field. Temperature, conductivity, and pH measured in the field. Alkalinity measured in the lab. Nutrient sample not preserved and included in anion sub-sample. Sample kept cold until delivered to the lab.||
+7|10|Sampled using TWDB protocols|Sampled in accordance with the TWDB Field Manual for Groundwater Sampling, 2003.  Samples are collected when temperature, conductivity, and pH have stablized. Sample was filtered and field tested for alkalinity. Samples are preserved as applicable, kept chilled, and delivered to the lab. Holding times are honored. Organic sub-samples are not filtered.||
+8|11|Sampled using TWDB protocols, but NOT filtered|Sampled in accordance with the TWDB Field Manual for Groundwater Sampling, 2003.  Samples are collected when temperature, conductivity, and pH have stablized. Sample was NOT filtered and field tested for alkalinity. Samples are preserved as applicable, kept chilled, and delivered to the lab. Holding times are honored. Organic sub-samples are not filtered.||
+9|12|By TCEQ staff with their QA-QC procedures|Sample collected by TCEQ staff following prescribed QA-QC procedures.||
+10|13|Field test using TWDB protocols; cation - TDH; anion & nutrient - TX Tech|Cation sample preserved and run thru TDH lab. Anion and nutrient sub-samples sent to lab at Texas Tech lab and run within 24 hours. Field test completed using TWDB protocols.||
+11|14|Sampled using TWDB protocols but through Hach DR-2000 lab|Sampled using TWDB protocols, but sample results determined by using a Hach DR-2000 lab.||
+12|15|Procedures not documented; from GCD's Hach|Collection procedures not documented, results obtained by use of a Groundwater Conservation District's Hach equipment. ||
+13|16|From USGS for NAWQA with "Clean Sample" technique|Sample collected by USGS for NAWQA program using "Clean Sample" technique.||
+14|99|Reliability unknown or not available|Reliability unknown, not available, or not yet entered into database. Sample collected from tank, distribution, or bailed from well.||

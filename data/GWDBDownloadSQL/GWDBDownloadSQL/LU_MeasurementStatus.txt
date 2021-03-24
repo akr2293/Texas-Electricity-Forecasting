@@ -1,0 +1,5 @@
+MeasurementStatusId|MeasurementStatusCode|Description|CreatedDate|LastUpdateDate
+1|P|Publishable||
+2|N|Non-Publishable||
+3|Q|Questionable||
+4|X|No Measurement||

@@ -1,0 +1,465 @@
+GWAquiferId|GWAquiferCode|Description|CreatedDate|LastUpdateDate
+1|100ALVM|Alluvium||
+2|100CPCR|Cenozoic Pecos Alluvium and Cretaceous Rocks||
+3|100CPCRL|Cenozoic Pecos Alluvium and Lower Cretaceous Rocks||
+4|100CPDG|Cenozoic Pecos Alluvium and Dockum Formation||
+5|100CPDR|Cenozoic Pecos Alluvium, and Dockum and Rustler Formations||
+6|100PECS|Cenozoic Pecos Alluvium||
+7|100TAHO|Tahoka Formation||
+8|110AASP|Alluvium, Antlers Sand and Permian System||
+9|110ABDC|Alluvial Plain Deposits, Blaine Gypsum and Dog Creek Shale||
+10|110ACPO|Alluvial Channel and Plain Deposits and Ochoa Series||
+11|110AGRT|Alluvium and Precambrian Granite||
+12|110AHTP|Alluvium and High Terrace Deposits||
+13|110AHTW|Alluvium, High Terrace Deposits and Whitehorse Group||
+14|110ALTC|Alluvium, Low Terrace and Channel Fill Deposits||
+15|110ALTO|Alluvium, Low Terrace and Channel Fill Deposits and Ogallala Formation||
+16|110ALTW|Alluvium, Low Terrace and Channel Fill Deposits and Whitehorse Group||
+17|110ALVM|Quaternary Alluvium||
+18|110ALVP|Alluvial Plain Deposits||
+19|110ALWX|Alluvium, Leona Formation and Wilcox Group||
+20|110ASSA|Alluvium, Terrace Deposits, Seymour Formation and San Angelo Sandstone||
+21|110ATCF|Alluvial Terrace and Channel Deposits and Flowerpot Shale||
+22|110ATCW|Alluvial Terrace and Channel Deposits and Whitehorse Group||
+23|110ATSB|Alluvium, Terrace Deposits, Seymour Formation and Blaine Formation||
+24|110AVAN|Alluvium and Antlers Sand||
+25|110AVAR|Alluvium and Arroyo Formation||
+26|110AVAU|Alluvium and Austin Chalk||
+27|110AVBL|Alluvium and Blaine Gypsum||
+28|110AVCB|Alluvium, Choza Formation and Bullwagon Dolomite||
+29|110AVCC|Alluvium and Cretaceous Rocks||
+30|110AVCF|Alluvium and Clear Fork Group||
+31|110AVCG|Alluvium and Cisco Group||
+32|110AVCH|Alluvium and Choza Formation||
+33|110AVCM|Alluvium and Cook Mountain Formation||
+34|110AVCY|Alluvium and Canyon Group||
+35|110AVCZ|Alluvium and Carrizo Sand||
+36|110AVDK|Alluvium and Dockum Formation||
+37|110AVET|Alluvium, Edwards and Associated Limestones and Trinity Sands||
+38|110AVEV|Alluvium and Evangeline Aquifer||
+39|110AVFP|Alluvium, Flood Plain||
+40|110AVFV|Alluvium and Fluviatile Terrace Deposits||
+41|110AVGL|Alluvium and Goliad Sand||
+42|110AVGR|Alluvium and Glen Rose Limestone||
+43|110AVJK|Alluvium and Jackson Group||
+44|110AVLC|Alluvium and Lower Cretaceous Rocks||
+45|110AVLS|Alluvium and Lissie Sand||
+46|110AVMA|Alluvium and Artesia Group||
+47|110AVME|Alluvium and Edwards and Associated Limestones||
+48|110AVMF|Alluvium and Marble Falls Limestone||
+49|110AVML|Alluvium and Leona Formation||
+50|110AVMW|Alluvium and Wichita Group||
+51|110AVOG|Alluvium and Ogallala Formation||
+52|110AVPR|Alluvium and Pease River Group||
+53|110AVPS|Alluvium and Permian System||
+54|110AVPW|Alluvial Plain Deposits and Whitehorse Group||
+55|110AVQC|Alluvium and Queen City Sand||
+56|110AVRF|Alluvium and Reklaw Formation||
+57|110AVSB|Alluvium and Simsboro Formation||
+58|110AVSS|Alluvium and Sparta Sand||
+59|110AVTC|Alluvial Terrace and Channel Deposits||
+60|110AVTP|Alluvium and Travis Peak Formations||
+61|110AVTS|Alluvium, Terrace Deposits and Seymour Formation||
+62|110AVTV|Alluvium and Tertiary Volcanics||
+63|110AVTY|Alluvium and Taylor Group||
+64|110AVVL|Alluvium and Vale Formation||
+65|110AVWX|Alluvium and Wilcox Group||
+66|110AVYG|Alluvium and Yegua Formation||
+67|110BIBC|Barrier Island and Beach Deposits||
+68|110BILD|Barrier Island Deposits||
+69|110BWDR|Blackwater Draw Formation||
+70|110DOGL|Dune Sand and Ogallala Formation||
+71|110DUNE|Dune Sand||
+72|110QCCH|Caliche, Quarternary||
+73|110QRNR|Quaternary System||
+74|110QWSD|Windblown Sand, Quaternary||
+75|110STEP|South Texas Eolian Plain Deposits||
+76|110TRRC|Terrace Deposits||
+77|111ABZR|Alluvium, Brazos River||
+78|111AVCR|Alluvium, Colorado River||
+79|111AVMT|Alluvium and Terrace Deposits||
+80|111HPPA|Holocene, Pleistocene and Pliocene Alluvial Deposits||
+81|111PCRV|Pecos River Alluvium||
+82|111RGRD|Rio Grande Alluvium||
+83|112ALLM|Alta Loma Sand||
+84|112BMLG|Beaumont Clay, Lissie Formation and Goliad Sand||
+85|112BMLS|Beaumont Clay and Lissie Formation||
+86|112BMNT|Beaumont Clay||
+87|112CEVG|Chicot and Evangeline Aquifers||
+88|112CHCT|Chicot Aquifer||
+89|112CHCTL|Chicot Aquifer, Lower||
+90|112CHCTM|Chicot Aquifer, Middle||
+91|112CHCTU|Chicot Aquifer, Upper||
+92|112EFBL|Eagle Flat Bolson||
+93|112GLFC|Gulf Coast Aquifer||
+94|112GOLD|Goliad and Younger Rocks, Undifferentiated||
+95|112GOWS|Willis and Goliad Sands||
+96|112GRBL|Green River Bolson||
+97|112HCBL|Hueco Bolson||
+98|112LBLG|Leona Formation and Bullwagon Dolomite||
+99|112LEON|Leona Formation||
+100|112LGLD|Lissie Formation and Goliad Sand||
+101|112LISS|Lissie Formation||
+102|112LNAN|Leona Formation and Antlers Sands||
+103|112LNAS|Leona Formation and Austin Chalk||
+104|112LNBD|Leona Formation and Buda Limestone||
+105|112LNCZ|Leona Formation and Choza Formation||
+106|112LNSA|Leona Formation and San Angelo Sandstone||
+107|112LSRP|Leona Formation and Serpentine||
+108|112LWCX|Leona Formation and Wilcox Group||
+109|112MCSB|Mercedes-Sebastian Aquifer||
+110|112MSBL|Mesilla Bolson||
+111|112PCPC|Pleistocene-Pliocene Series||
+112|112PECSA|Pecos Aquifer||
+113|112PLSC|Pleistocene Series||
+114|112PRBL|Presidio and Redford Bolsons||
+115|112RLBL|Red Light Draw Bolson||
+116|112SBCR|Salt Bolson and Cretaceous Rocks||
+117|112SBCRC|Salt Bolson and Capitan Reef Complex||
+118|112SBDM|Salt Bolson and Delaware Mountain Group||
+119|112SBLP|Salt Bolson and Permian Rocks||
+120|112SBTV|Salt Bolson and Tertiary Volcanics||
+121|112SCFX|Seymour Formation and Clear Fork Group||
+122|112SLBL|Salt Bolson||
+123|112SYCZ|Seymour and Choza Formations||
+124|112SYMR|Seymour Formation||
+125|112TAHK|Tahoka Formation||
+126|112TAOG|Tahoka and Ogallala Formations||
+127|112TEDAS|Tahoka Formation, Fredericksburg Group and Antlers Sand||
+128|112WLLS|Willis Sand||
+129|120BLSN|Bolson Deposits||
+130|120IGNS|Igneous Rocks||
+131|120IVIG|Intrusive Rocks||
+132|120VLCC|Volcanics||
+133|121EVBV|Evangeline Aquifer and Burkeville Aquiclude||
+134|121EVGL|Evangeline Aquifer||
+135|121EVJP|Evangeline and Jasper Aquifers||
+136|121EVJPU|Evangeline Aquifer and Upper Unit of Jasper Aquifer||
+137|121GDLG|Goliad Sand and Lagarto Clay||
+138|121GOLD|Goliad Sand||
+139|121ODPJ|Ogallala Formation, Dakota Group, Purgatoire Formation and Jurassic||
+140|121OGAL|Ogallala Formation and Antlers Sand||
+141|121OGDK|Ogallala Formation and Dockum Formation||
+142|121OGDP|Ogallala Formation, Dakota Group and Purgatoire Formation||
+143|121OGFA|Ogallala Formation, Fredericksburg Group and Antlers Sand||
+144|121OGFG|Ogallala Formation and Fredericksburg Group||
+145|121OGLD|Ogallala Formation and Dakota Group||
+146|121OGLL|Ogallala Formation||
+147|121OGLM|Ogallala and Morrison Formations||
+148|121OGLP|Ogallala and Purgatoire Formations||
+149|121OGLW|Ogallala Formation and Whitehorse Group||
+150|121OGPJ|Ogallala Formation, Purgatoire Formation and Jurassic||
+151|121UVLD|Uvalde Gravel||
+152|122BKVL|Burkeville Aquiclude||
+153|122CJCK|Catahoula Tuff and Jackson Group||
+154|122CTHL|Catahoula Formation||
+155|122FBKV|Fleming Formation and Burkeville Aquiclude||
+156|122FLMG|Fleming Formation||
+157|122JBKV|Jasper Aquifer and Burkeville Aquiclude||
+158|122JPCL|Jasper Aquifer and Catahoula Sandstone||
+159|122JPJK|Jasper Aquifer and Jackson Group||
+160|122JSPR|Jasper Aquifer||
+161|122JSPRU|Jasper Aquifer, Upper Unit||
+162|122LGRT|Lagarto Clay||
+163|122LOKV|Lagarto Clay and Oakville Sandstone||
+164|122OKVC|Oakville Sandstone and Catahoula Tuff||
+165|122OKVL|Oakville Sandstone||
+166|123ANHC|Anahuac Formation||
+167|124BFCS|Bigford Formation and Carrizo Sand||
+168|124BGDF|Bigford Formation of Claiborne Group||
+169|124CABF|Calvert Bluff Formation||
+170|124CBSB|Calvert Bluff Formation and Simsboro Sand Member||
+171|124CKMC|Cook Mountain Formation and Carrizo Sand||
+172|124CKMN|Cook Mountain Formation||
+173|124CKMS|Cook Mountain Formation and Sparta Sand||
+174|124CPRS|Cypress Aquifer||
+175|124CRRZ|Carrizo Sand||
+176|124CRVR|Cane River Formation||
+177|124CZCB|Carrizo Sand and Calvert Bluff Formation||
+178|124CZCSB|Carrizo Sand, Calvert Bluff Formation and Simsboro Formation||
+179|124CZSB|Carrizo Sand and Simsboro Sand Member of Rockdale Formation||
+180|124CZWX|Carrizo Sand and Wilcox Group, Undifferentiated||
+181|124ELPC|El Pico Clay||
+182|124HOOP|Hooper Formation||
+183|124INDO|Indio Formation||
+184|124JCKS|Jackson Group||
+185|124JCKSL|Lower Jackson Unit||
+186|124JCKSU|Upper Jackson Unit||
+187|124JKYG|Jackson Group and Yegua Formation||
+188|124LJUY|Lower Jackson Unit and Upper Yegua Unit||
+189|124LRDO|Laredo Formation||
+190|124QCCW|Queen City Sand, Carrizo Sand and Wilcox Group||
+191|124QCCZ|Queen City Sand and Carrizo Sand||
+192|124QCRK|Queen City Sand and Reklaw Formation||
+193|124QCSP|Queen City Sand and Sparta Sand||
+194|124QNCT|Queen City Sand of Claiborne Group||
+195|124RKCZ|Reklaw Formation and Carrizo Sand||
+196|124RKLW|Reklaw Formation of Claiborne Group||
+197|124SBHP|Simsboro Sand Member and Hooper Formation||
+198|124SMBR|Simsboro Sand Member of Rockdale Formation||
+199|124SPCZ|Sparta Sand and Carrizo Sand||
+200|124SPLR|Spiller Sand Member of Cook Mountain Formation||
+201|124SPQC|Sparta Sand and Queen City Sand||
+202|124SPRT|Sparta Sand||
+203|124SPSP|Sparta Sand and Spiller Sand Member of Cook Mountain Formation||
+204|124WCHS|Weches Formation of Claiborne Group||
+205|124WLCX|Wilcox Group||
+206|124WXMW|Wilcox and Midway Groups||
+207|124YEGU|Yegua Formation||
+208|124YEGUL|Lower Yegua Unit and Underlying Unit||
+209|124YEGUU|Upper Yegua Unit||
+210|124YGCM|Yegua and Cook Mountain Formations||
+211|124YGJK|Yegua Formation and Jackson Group||
+212|125MDWY|Midway Group||
+213|125THCN|Tehuacana Member of Kincaid Formation||
+214|125WLSP|Wills Point Formation||
+215|210CIGR|Igneous Rocks (Cretaceous)||
+216|210CRCS|Cretaceous System||
+217|211ACCE|Anacacho Limestone and Escondido Formation||
+218|211AEDD|Austin Chalk and Edwards and Associated Limestones||
+219|211AGUJ|Aguja Formation||
+220|211ANCC|Anacacho Limestone||
+221|211ANNN|Annuna Chalk||
+222|211ASTN|Austin Chalk||
+223|211BLSM|Blossom Sand||
+224|211BLWG|Buda Limestone and Washita Group||
+225|211BNHM|Bonham Marl||
+226|211BQLS|Boquillas Formation||
+227|211BUDA|Buda Limestone||
+228|211CRCSU|Upper Cretaceous Series||
+229|211CRSC|Corsicana Marl||
+230|211DKOP|Dakota Group and Purgatoire Formation||
+231|211DKOT|Dakota Sandstone or Formation||
+232|211DKPJ|Dakota Group, Purgatoire Formation and Jurassic||
+233|211DLME|Dakota Group, Lytle, Morrison and Exeter||
+234|211ECDD|Escondido Formation||
+235|211EGFD|Eagle Ford Group||
+236|211EPIC|El Picacho Formation||
+237|211GOBR|Gober Tongue of Austin Chalk||
+238|211NCTC|Nacatoch Sand||
+239|211NVRR|Navarro Group||
+240|211NVTY|Navarro and Taylor Groups||
+241|211SMGL|San Miguel Formation||
+242|211TYLR|Taylor Marl||
+243|211WLFC|Wolfe City Sand Member of Taylor Marl||
+244|212PEN|Pen Formation||
+245|212WBPH|Woodbine Sand and Paluxy and Hosston Formations||
+246|212WBPX|Woodbine and Paluxy Formations||
+247|212WDBN|Woodbine Sand||
+248|212WDBT|Woodbine Sand and Trinity Group||
+249|217BSCS|Basement Cretaceous Sands||
+250|217CRCSL|Lower Cretaceous Series||
+251|217HSCC|Hosston Formation and Cow Creek Limestone||
+252|217HSTN|Hosston Formation||
+253|217PGTM|Purgatoire and Morrison Formations||
+254|217PRGR|Purgatoire Formation||
+255|217SLGO|Sligo Formation||
+256|218ALRS|Antlers Sand||
+257|218ALSP|Antlers Sand and Pennsylvanian Rocks||
+258|218ANTP|Antlers Sand and Permian Rocks||
+259|218ASDG|Antlers Sand and Dockum Formation||
+260|218CCRK|Cow Creek Limestone||
+261|218CMPK|Comanche Peak Limestone||
+262|218COXS|Cox Sandstone||
+263|218EBFZA|Edwards and Associated Limestones - (Balcones Fault Zone Aquifer)||
+264|218EDAD|Edwards and Associated Limestones, Antlers Sand and Dockum Formation||
+265|218EDAS|Edwards and Associated Limestones and Antlers Sand||
+266|218EDDT|Edwards and Associated Limestones and Trinity Group||
+267|218EDGR|Edwards and Associated Limestones and Glen Rose Limestone||
+268|218EDGRU|Edwards and Associated Limestones and Upper Mbr of Glen Rose Limestone||
+269|218EDPM|Edwards and Associated Limestones and Permian System||
+270|218EDRD|Edwards Limestone||
+271|218EDRDA|Edwards and Associated Limestones||
+272|218FGAS|Fredericksburg Group and Antlers Sand||
+273|218FKBG|Fredericksburg Group||
+274|218FKBT|Fredericksburg and Trinity Groups||
+275|218FKBW|Limestones of Fredericksburg and Washita Groups||
+276|218FRGR|Fredericksburg Group and Glen Rose Limestone||
+277|218FWDK|Fort Worth Limestone and Duck Creek Formation, Undivided||
+278|218FWGR|Limestones of Fredericksburg, Washita and Upper Glen Rose||
+279|218GLRH|Glen Rose Limestone and Hensell Member of Pearsall Formation||
+280|218GLRP|Glen Rose Limestone and Pearsall Formation||
+281|218GLRS|Glen Rose Limestone||
+282|218GLRSL|Glen Rose Limestone, Lower Member||
+283|218GLRSU|Glen Rose Limestone, Upper Member||
+284|218GLRT|Glen Rose Limestone and Trinity Sand, Undifferentiated||
+285|218GPSH|Glen Rose (Lower), Pearsall (Hensell, Cow Creek), Sligo & Hosston Fms||
+286|218GRCCU|Lower Glen Rose and Cow Creek Limestones||
+287|218GRGN|Georgetown Limestone||
+288|218GRHC|Glen Rose LS and Hensell SH and Cow Creek LS Members of Pearsall FM||
+289|218GRHCU|Upper Glen Rose, Hensell and Cow Creek Members of Pearsall Formation||
+290|218GRHH|Glen Rose Limestone, Hensell Sand and Hosston Formation||
+291|218GRLH|Glen Rose Limestone, Lower and Hensell Shale Mbr of Pearsall Formation||
+292|218GRTM|Glen Rose Limestone and Twin Mountains Formation||
+293|218GRUH|Glen Rose Limestone, Upper and Hensell Shale Mbr of Pearsall Formation||
+294|218HCSH|Hensell and Cow Creek Mbrs of Pearsall Formation and Sligo and Hosston||
+295|218HEPF|Hensell Sand and Pearsall Formation||
+296|218HNHS|Hensell Sand and Hosston Formation||
+297|218HNSL|Hensell Sand Member of Travis Peak Formation||
+298|218HSCC|Hensell Sand and Cow Creek Limestone||
+299|218KMCI|Kiamichi Formation||
+300|218LGRLH|Lower Glen Rose and Hosston Formation||
+301|218PLXP|Paluxy Formation and Permian Rocks||
+302|218PLXY|Paluxy Sand||
+303|218PRHF|Pearsall and Hosston Formations||
+304|218PRSL|Pearsall Formation||
+305|218PSGH|Pearsall, Sligo and Hosston Formations||
+306|218PWPW|Pawpaw Formation||
+307|218PXGR|Paluxy Sand and Glen Rose Limestone||
+308|218PXTM|Paluxy and Twin Mountains Formations||
+309|218SCMR|Sycamore Sand Member of Travis Peak Formation||
+310|218SNEL|Santa Elena Limestone||
+311|218TGHC|Trinity Sand, Graham Formation and Home Creek Limestone||
+312|218TMFP|Twin Mountains Formation and Pennsylvanian Rocks||
+313|218TPPX|Travis Peak Formation and Paluxy Sand||
+314|218TRGM|Trinity Sand and Graham Formation||
+315|218TRNT|Trinity Group||
+316|218TSEB|Trinity (Hensell Sand) and Ellenburger Group||
+317|218TVPK|Travis Peak Formation||
+318|218TWMT|Twin Mountains Formation||
+319|218TWMW|Twin Mountains and Mineral Wells Formations||
+320|218WLNT|Walnut Clay||
+321|218WSHT|Washita Group||
+322|218YUCC|Yucca Formation||
+323|219SLGH|Sligo and Hosston Formations||
+324|220JRSC|Jurassic System||
+325|221EXTR|Exeter Sandstone||
+326|231DCKM|Dockum Formation||
+327|231DCKP|Dockum Formation and Permian Rocks||
+328|300PLZC|Paleozoic Erathem||
+329|310PRMN|Permian System||
+330|310QRMW|Quartermaster Formation and Whitehorse Group||
+331|310QRRM|Quartermaster Formation||
+332|312CSTL|Castile Gypsum||
+333|312DYLK|Dewey Lake Red Beds||
+334|312OCAR|Ochoan Series and Artesia Group||
+335|312OCHO|Ochoan Series||
+336|312RSLR|Rustler Formation||
+337|312RUCA|Rustler and Castile Formations, Undivided||
+338|312SLDO|Salado Formation||
+339|313ALTD|Altuda Formation||
+340|313ARTS|Artesia Group||
+341|313BELC|Bell Canyon Formation||
+342|313BLIN|Blaine Formation||
+343|313CPTN|Capitan Limestone||
+344|313CRCX|Capitan Reef Complex and Associated Limestones||
+345|313CRDM|Capitan Reef Complex - Delaware Mountain Group||
+346|313DCBF|Dog Creek Shale, Blaine Gypsum and Flowerpot Shale||
+347|313DCKB|Dog Creek Shale and Blaine Gypsum||
+348|313DLRM|Delaware Mountain Formation or Group||
+349|313DMBS|Delaware Mountain Group - Bone Spring Limestone||
+350|313FLRP|Flowerpot Shale||
+351|313GDLP|Guadalupe Series||
+352|313SADR|San Andres Limestone||
+353|313SVRV|Seven Rivers Formation||
+354|313WDCB|Whitehorse Group, Dog Creek and Blaine Formations||
+355|313WTRS|Whitehorse Group||
+356|318ADML|Admiral Formation||
+357|318ARRY|Arroyo Formation||
+358|318BLGN|Bullwagon Dolomite Member of Vale Formation||
+359|318BLPL|Belle Plains Formation||
+360|318BSPG|Bone Spring Limestone||
+361|318BSVP|Bone Spring and Victorio Peak Limestones||
+362|318CHOZ|Choza Formation||
+363|318CLFK|Clear Fork Group||
+364|318CZBW|Choza Formation and Bullwagon Dolomite||
+365|318CZVL|Choza and Vale Formations||
+366|318HUCL|Hueco Limestone||
+367|318LDRS|Lueders Limestone||
+368|318LNRD|Leonard Series||
+369|318MRKL|Merkel Dolomite Member of Choza Formation||
+370|318PRVR|Pease River Group||
+371|318PTRL|Petrolia Formation||
+372|318SACZ|San Angelo Sandstone and Choza Formation||
+373|318SAGL|San Angleo Formation||
+374|318SDPP|Standpipe Limestone Member of Arroyo Formation||
+375|318VALE|Vale Formation||
+376|318VCPK|Victorio Peak Limestone||
+377|318WCCC|Wichita and Cisco Groups||
+378|318WCHT|Wichita Formation or Group||
+379|319ARCT|Archer City Formation||
+380|319CMJC|Coleman Junction Limestone Member of Putnam Formation||
+381|319MORN|Moran Formation||
+382|319PTNM|Putnam Formation||
+383|319PUBL|Pueblo Formation||
+384|319WFMP|Wolfcamp Formation||
+385|320GPTK|Gaptank Formation||
+386|320MBLF|Marble Falls Limestone||
+387|320PSLV|Pennsylvanian System||
+388|320SMCK|Smithwick Shale||
+389|321AVIS|Avis Sandstone||
+390|321CCPS|Colony Creek and Placid Shales||
+391|321CCRP|Colony Creek Shale, Ranger Limestone and Placid Shale||
+392|321CLCK|Colony Creek Shale||
+393|321CNCS|Canyon and Cisco Groups||
+394|321CNYN|Canyon Group||
+395|321CSCO|Cisco Group||
+396|321GRHM|Graham Formation||
+397|321GZCK|Gonzales Creek Member||
+398|321HMCK|Home Creek Limestone||
+399|321HPVL|Harpersville Formation||
+400|321HYMD|Haymond Formation||
+401|321MARK|Markley Formation||
+402|321PLCD|Placid Shale||
+403|321PLPN|Palo Pinto Limestone||
+404|321PLPT|Palo Pinto Formation||
+405|321PPTC|Palo Pinto Formation and Turkey Creek Sandstone||
+406|321PSWM|Placid Shale and Wolf Mountain Formation||
+407|321PWWM|Placid Shale, Winchell Limestone and Wolf Mountain Shale||
+408|321RNGR|Ranger Limestone||
+409|321TFGM|Thrifty and Graham Formations||
+410|321TRFT|Thrifty Formation||
+411|321WFMP|Wolf Mountain and Posideon Shales||
+412|321WLFM|Wolf Mountain Shale||
+413|321WMPP|Wolf Mountain Shale, Posideon Shale and Palo Pinto Limestone||
+414|321WNCL|Winchell Limestone||
+415|323DMPL|Dimple Limestone||
+416|324BZRVL|Brazos River Conglomerate Member, Lower Part of Garner Formation||
+417|324BZRVU|Brazos River Conglomerate Member, Upper Part of Garner Formation||
+418|324MLWL|Mineral Wells Formation||
+419|324MWBR|Mineral Wells and Brazos River Formations||
+420|324STRN|Strawn Group||
+421|327MFEB|Marble Falls Limestone and Ellenburger Group||
+422|327TSNS|Tesnus Formation||
+423|360CABL|Caballos Novaculite||
+424|361CBMV|Caballos Novaculite and Maravillas Chert, Undifferentiated||
+425|361MRVL|Maravillas Chert||
+426|362WDHL|Woods Hollow Shale||
+427|363FPAS|Fort Pena Formation and Alsate Shale, Undifferentiated||
+428|363FTPN|Fort Pena Formation||
+429|364ALST|Alsate Shale||
+430|367EBCR|Ellenburger Group and Cambrian Rocks||
+431|367EBHK|Ellenburger Group and Hickory Sandstone||
+432|367EBPH|Ellenburger Group and Post-Hickory Sandstone Cambrian Rocks||
+433|367EBSS|Ellenburger Group and San Saba Limestone||
+434|367EBSW|Ellenburger Group, San Saba Limestone and Welge Sandstone||
+435|367ELBG|Ellenburger Group||
+436|367GRMN|Gorman Formation||
+437|367HNCT|Honeycut Formation||
+438|367MRTN|Marathon Limestone||
+439|367ORDV|Ordovician Rocks, Undifferentiated||
+440|367TNRD|Tanyard Formation||
+441|369MTDF|Marathon Limestone and Dagger Flat Sandstone, Undifferentiated||
+442|370CMBR|Cambrian System||
+443|370DGFT|Dagger Flat Sandstone||
+444|371CPMN|Cap Mountain of the Riley Formation||
+445|371GRNT|Granite Wash||
+446|371HCKR|Hickory Sandstone||
+447|371LNMN|Lion Mountain Sandstone||
+448|371MCWG|Morgan Creek Limestone and Welge Sandstone||
+449|371MGCK|Morgan Creek Limestone Member of Wilberns Formation||
+450|371MWLM|Morgan Creek Limestone and Welge and Lion Mountain Sandstones||
+451|371PNPK|Point Peak Shale Member of Wilberns Formation||
+452|371RESH|Rocks Between Ellenburger-San Saba Aquifer and Hickory SS MBR Riley FM||
+453|371RILY|Riley Formation||
+454|371SNSB|San Saba Limestone||
+455|371WELG|Welge Sandstone||
+456|371WGLH|Welge, Lion Mountain and Hickory Sandstones||
+457|371WGLM|Welge and Lion Mountain Sandstones||
+458|371WLBR|Wilberns Formation||
+459|400GRNT|Precambrian Granite||
+460|400PCKD|Packsaddle Schist||
+461|400PCMB|Precambrian Erathem||
+462|400VSPG|Valley Spring Gneiss||
+463|NOT-APPL|Aquifer Code Is Not Applicable to this Well||
+464|UNKNOWN|Aquifer Not Able to be Determined||
