@@ -1,7 +1,0 @@
-TestTypeId|Description|CreatedDate|LastUpdateDate
-1|Other||
-2|Unknown||
-10|Pump||
-11|Bailer||
-12|Jetted||
-13|Estimated||

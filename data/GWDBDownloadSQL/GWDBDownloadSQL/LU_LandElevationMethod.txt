@@ -1,7 +1,0 @@
-LandElevationMethodId|LandElevationMethodCode|Description|CreatedDate|LastUpdateDate
-1|A|Altimeter||
-2|D|Digital Elevation Model -DEM||
-3|G|Global Positioning System-GPS||
-4|L|Level Or Other Surveying Meth.||
-5|M|Interpolated From Topo Map||
-6|Z|Other (see remarks)||

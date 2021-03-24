@@ -1,8 +1,0 @@
-CasingId|Description|CreatedDate|LastUpdateDate
-1|Other||
-2|Unknown||
-10|Blank||
-11|Screen||
-12|Perforated or Slotted||
-13|Riser||
-101|Open Hole||

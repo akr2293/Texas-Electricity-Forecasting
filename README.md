@@ -26,6 +26,8 @@ Also, the EIA publishes realtime demand for the ERCOT system, so I could potenti
 # Risks and Challenges
 Following the cleaning, the modeling process _shouldn't_ be terribly challenging after. So, a major challenge will be making the project interesting to the point that it's not just a simple forecasting model. This is why I would like to incorporate other sources like climate or demand.
 
+**Initial cleaning efforts are in the 01_cleaning notebook on my github**
+
 
 Main Data source:
 http://www.ercot.com/gridinfo/generation

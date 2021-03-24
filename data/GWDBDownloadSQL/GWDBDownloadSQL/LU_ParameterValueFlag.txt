@@ -1,9 +1,0 @@
-ParameterValueFlagId|ParameterValueFlagCode|Description|CreatedDate|LastUpdateDate
-1|<|less than||
-2|>|greater than||
-3|ND|not detected||
-5|c|calculated||
-6|e|estimated||
-7|m|modern||
-8|p|present||
-9|v|value affected by contamination ||
