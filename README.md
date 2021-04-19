@@ -1,7 +1,6 @@
 # <span style="color:Purple">Time Series Forecasting of Texas Electricity Data</span>
 --------
 
-#### [Andrew Roberts](https://github.com/akr2293)
 
 #### <span style="color:Green">The following project was completed as the final capstone for  my Data Science Immersive Bootcamp hosted by General Assembly. Many thanks to Caroline Schmitt, Adi Bronshtein, Alanna Besaw, and Jake Ellena for excellent instruction and support, as well as those in the cohort whom I was I fortunate to have spent the last 12 weeks with.</span>      
 -------
@@ -16,7 +15,7 @@ This project aims to conduct univariate and multivariate time series analysis to
 ---
 ## Executive Summary
 
-** After extensive review, EDA, and preprocessing, seven production models were developed for forecasting different aspects of the Texas electric grid. Five univariate time series models were created to forecast the top five energy sources for power generation in the state of Texas from 2011-2020. Two multivariate models were created that forecasted natural gas generation based on natural gas generation values and average temperature data. The models developed from our analysis could be used for better forecasting of different energy sources in the Texas grid. Each of the models had varied degrees of success, so further feature engineering and model design could provide more sufficient results.
+After extensive review, EDA, and preprocessing, seven production models were developed for forecasting different aspects of the Texas electric grid. Five univariate time series models were created to forecast the top five energy sources for power generation in the state of Texas from 2011-2020. Two multivariate models were created that forecasted natural gas generation based on natural gas generation values and average temperature data. The models developed from our analysis could be used for better forecasting of different energy sources in the Texas grid. Each of the models had varied degrees of success, so further feature engineering and model design could provide more sufficient results.
 
 With the dataset initially being structured in a format of data every 15 minutes as separate columns, extensive data wrangling was required to transform the data into a usable format. Thorough EDA provided in-depth understanding of how our data changes through time and provided key insights for how stationarity would play a role in our time series modeling. A normalized line plot depicted how energy usage changed over the period of interest. Major trends are increasing natural gas and wind at the expense of coal. Solar is significantly, however remains a relatively small component of the energy mix. Box plots were utilized to better understand how the spread of each energy source changed through time. Typically, energy sources like natural gas, coal, and nuclear had more consistent spreads, whereas the renewables showed a wide range of values. This is likely attributable to the intermittency of renewables which are at the mercy of mother nature.
 
